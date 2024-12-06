@@ -47,5 +47,7 @@ class loanAdmin(admin.ModelAdmin):
 # OUTPUT
 ![alt text](Capture.PNG)
 
+![alt text](experiment2/users.PNG)
+
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
